@@ -5,7 +5,5 @@
     <artifactId>parent.project</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <groupId>beer</groupId>
   <artifactId>module1</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
 </project>
