@@ -3,7 +3,7 @@
   <parent>
     <groupId>beer</groupId>
     <artifactId>parent.project</artifactId>
-    <version>0.0.17-SNAPSHOT</version>
+    <version>0.0.18-SNAPSHOT</version>
   </parent>
   <artifactId>module1</artifactId>
 </project>
